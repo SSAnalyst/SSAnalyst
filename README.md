@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SSAnalyst (Saurabh Shinde , CS Engineering Student from VIT )
 - 👀 I’m interested in Data Analysis and Cloud Computing
-- 🌱 I’m currently learning Data Anatytics (SAS,IBM,R and Python)
 - 📫 How to reach me https://www.linkedin.com/in/saurabh-shinde-4b4645192/
 
 <!---
